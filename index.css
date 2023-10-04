@@ -109,7 +109,7 @@ body {
     margin-right: 7px;
 }
 
-.content .begruesung .werbung .github p:hover {
+.content .begruesung .werbung .github .linkcontent:hover {
     cursor: pointer;
 }
 
