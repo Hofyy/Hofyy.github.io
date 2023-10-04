@@ -109,6 +109,10 @@ body {
     margin-right: 7px;
 }
 
+.content .begruesung .werbung .github p:hover {
+    cursor: pointer;
+}
+
 .content .begruesung .werbung .github .const {
     color: blue;
     font-weight: 100;
